@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/scss/components/_app.scss","webpack:///./src/scss/_variables.scss"],"names":[],"mappings":"AACA;EACI,cCDa","file":"../css/index.css","sourcesContent":["﻿@import \"../_variables.scss\";\r\n.app {\r\n    color: $md-gray;\r\n    }","﻿$dk-gray: #53575A;\r\n$md-gray: #888B8D;\r\n$lt-gray: #C8C8C8;\r\n"],"sourceRoot":""}
